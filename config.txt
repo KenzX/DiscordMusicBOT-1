@@ -1,6 +1,6 @@
-﻿token=NjMwMTkzNjUxMTU4NjE0MDE3.XZkvuw.qZStsQFh4j3YzpaALqw-tGqrr0s 
+﻿token=NjEyMzQ1NzExNTU1NjQxNDk4.XZkxSw.Lxz4eXJGb6VOU5YRcq7WpUVSo1M
 owner=579159495830142977 
 prefix=
-game= !help
+game=Kenz ❤️
 stayinchannel=true
 songinstatus=false
