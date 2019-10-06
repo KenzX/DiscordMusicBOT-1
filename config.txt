@@ -1,6 +1,6 @@
 ﻿token=NjEyMzQ1NzExNTU1NjQxNDk4.XZkxSw.Lxz4eXJGb6VOU5YRcq7WpUVSo1M
 owner=579159495830142977 
-prefix=
-game=Kenz ❤️
+prefix=1
+game=Kenz
 stayinchannel=true
 songinstatus=false
